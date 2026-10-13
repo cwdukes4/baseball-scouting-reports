@@ -4,8 +4,6 @@ This repository showcases scouting reports and performance analysis focused on e
 
 ## Projects
 
-## Projects
-
 ### 1. Hitter Evaluation: Caden Miller
 
 A scouting report examining offensive performance, swing decisions, pitch-type performance, contact quality, spray-chart tendencies, and comparisons across playing levels.
