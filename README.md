@@ -4,32 +4,38 @@ This repository showcases scouting reports and performance analysis focused on e
 
 ## Projects
 
-### 1. Hitter Evaluation
+## Projects
 
-A scouting report examining a hitter's offensive profile, including swing decisions, performance against different pitch types, contact quality, and spray-chart tendencies.
+### 1. Hitter Evaluation: Caden Miller
 
-Key areas of analysis:
+A scouting report examining offensive performance, swing decisions, pitch-type performance, contact quality, spray-chart tendencies, and comparisons across playing levels.
+
+**Key areas of analysis:**
 - Plate discipline and swing decisions
 - Performance against fastballs and breaking balls
 - Contact quality and batted-ball tendencies
 - Performance changes across seasons
 - MLB player comparisons
 
-### 2. Pitcher Evaluation
+[View Hitter Scouting Report (PDF)](./Caden%20Miller%20Report.pdf)
 
-A scouting report evaluating a pitcher's arsenal, pitch characteristics, overall effectiveness, and performance trends.
+### 2. Pitcher Evaluation: Brady St. Pierre
 
-Key areas of analysis:
+A scouting report evaluating pitch arsenal characteristics, pitch effectiveness, movement profiles, performance trends, and MLB pitcher comparisons.
+
+**Key areas of analysis:**
 - Pitch usage, velocity, movement, and spin
-- Pitch effectiveness and swing-and-miss metrics
-- Command, chase rates, and contact quality
+- Whiff rates, chase rates, and contact quality
+- Pitch effectiveness and Stuff+
 - Performance changes across seasons
-- MLB pitcher comparisons
+- MLB player comparisons
+
+[View Pitcher Scouting Report (PDF)](./Brady%20St.%20Pierre%20Report.pdf)
 
 ## Objective
 
-The goal of these reports is to demonstrate how baseball data can be used to evaluate player performance, identify strengths and weaknesses, and support scouting and player-development decisions in the Cape Cod Baseball League. 
+These reports demonstrate how baseball data can support player evaluation, identify performance trends, and inform scouting and player-development decisions.
 
 ## Tools and Metrics
 
-TrackMan data and baseball performance metrics, including pitch characteristics, plate discipline, contact quality, and advanced performance indicators.
+TrackMan data, pitch characteristics, plate discipline, contact quality, and advanced performance metrics.
